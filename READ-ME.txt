@@ -1,0 +1,31 @@
+  =>  Template Name    : MultiShop - Online Shop Website Template
+
+  =>  Template Link    : https://htmlcodex.com/online-shop-website-template
+
+  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+
+  =>  Template Author  : HTML Codex
+
+  =>  Author Website   : https://htmlcodex.com
+
+  =>  About HTML Codex : HTML Codex is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://htmlcodex.com/about-us )
+
+…or create a new repository on the command line
+
+echo "# e-shop" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/LakshikaSubhodani/e-shop.git
+git push -u origin main
+
+…or push an existing repository from the command line
+
+git remote add origin https://github.com/LakshikaSubhodani/e-shop.git
+git branch -M main
+git push -u origin main
+
+…or import code from another repository
+
+You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
